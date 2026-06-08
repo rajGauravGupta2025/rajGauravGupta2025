@@ -51,11 +51,18 @@
 
 ---
 
+### 💻 Core Competencies & Language Proficiency
+
+| Technology / Role | Domain Focus | Proficiency Level | Status / Application |
+| :--- | :--- | :--- | :--- |
+| **Salesforce Development** | Apex, Apex Triggers, SOQL, SOSL | Advanced | Backend business logic & automation |
+| **Lightning Web Components** | LWC, JavaScript (ES6+), Modern Web Standards | Advanced | Building high-performance UI components |
+| **Salesforce Administration** | Flows, Security Architecture, Data Modeling | Intermediate | Scalable, declarative cloud solutions |
+| **Core Web Technologies** | HTML5, CSS3, JavaScript | Intermediate | Semantic markup, styling, and DOM scripting |
+
+---
+
 <h3 align="left">GitHub Metrics & Streaks:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajgauravgupta2025&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgauravgupta2025&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="170" />
 </p>
