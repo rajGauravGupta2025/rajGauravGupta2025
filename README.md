@@ -14,13 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/raj-gupta-41372a233/" target="blank">
+  <a href="https://www.linkedin.com/in/raj-gupta-41372a233/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Raj_5339/" target="blank">
+  <a href="https://leetcode.com/u/Raj_5339/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/rajgauravgupplbf/" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/rajgauravgupplbf/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
@@ -29,37 +29,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<style>
-  .tech-badge {
-    transition: transform 0.3s ease, filter 0.3s ease;
-    border-radius: 8px;
-    padding: 4px;
-    margin-right: 5px;
-  }
-  .tech-badge:hover {
-    transform: translateY(-5px);
-    filter: drop-shadow(0px 5px 10px rgba(14, 117, 182, 0.5));
-  }
-</style>
-
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img class="tech-badge" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="transition: transform 0.3s ease; display: inline-block; margin-right: 5px;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'" />
   </a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-    <img class="tech-badge" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="transition: transform 0.3s ease; display: inline-block; margin-right: 5px;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img class="tech-badge" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="transition: transform 0.3s ease; display: inline-block; margin-right: 5px;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'" />
   </a>
   <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
-    <img class="tech-badge" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="45" height="45" />
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="45" height="45" style="transition: transform 0.3s ease; display: inline-block; margin-right: 5px;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'" />
   </a>
   <a href="https://developer.salesforce.com/docs/component-library/overview/components" target="_blank" rel="noreferrer">
-    <img class="tech-badge" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="LWC" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="LWC" width="45" height="45" style="transition: transform 0.3s ease; display: inline-block; margin-right: 5px;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'" />
   </a>
   <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm" target="_blank" rel="noreferrer">
-    <img class="tech-badge" src="https://www.vectorlogo.zone/logos/amazon_apex/amazon_apex-icon.svg" alt="Apex" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-plain.svg" alt="Apex" width="45" height="45" style="transition: transform 0.3s ease; display: inline-block; margin-right: 5px; filter: hue-rotate(140deg);" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'" />
   </a>
 </p>
 
